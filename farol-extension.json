@@ -1,0 +1,10 @@
+{
+  "type": "fs",
+  "schema": [
+    {
+      "name": "basePath",
+      "type": "string"
+    }
+  ],
+  "icon": "icon.png"
+}

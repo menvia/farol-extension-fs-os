@@ -1,0 +1,24 @@
+{
+  "name": "farol-extension-fs-os",
+  "version": "1.0.0",
+  "description": "Farol Extension - OS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/menvia/farol-extension-fs-os.git"
+  },
+  "keywords": [
+    "farol",
+    "extension",
+    "os"
+  ],
+  "author": "Menvia Developer <developer@menvia.com> (https://menvia.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menvia/farol-extension-fs-os/issues"
+  },
+  "homepage": "https://github.com/menvia/farol-extension-fs-os#readme"
+}
