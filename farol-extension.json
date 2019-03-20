@@ -1,10 +1,16 @@
 {
+  "name": "OS File System",
+  "description": {
+    "en": "Farol Extension to integrate with Operational System File System service",
+    "pt": "Extensão do Farol para integrar com o serviço de sistema de arquivos do Sistema Operacional",
+    "es": "Extensión de Farol para integrarse con el servicio de sistema de archivos del sistema operativo"
+  },
+  "icon": "icon.png",
   "type": "fs",
   "schema": [
     {
       "name": "basePath",
       "type": "string"
     }
-  ],
-  "icon": "icon.png"
+  ]
 }
